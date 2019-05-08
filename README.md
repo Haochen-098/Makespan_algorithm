@@ -1,1 +1,1 @@
-This program append lpt johnson algorthm to get assembly line makespan
+Program counts assembly line makespan base on lpt-Johnson algorithm
